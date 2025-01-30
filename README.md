@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+> [!CAUTION]
+>
+> ## Create React App is Deprecated
+>
+> Create React App was officially deprecated, use [Vite](https://vite.dev/guide/#trying-vite-online) or one of React frameworks documented on [Start a New React Project](https://react.dev/learn/start-a-new-react-project).
+>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
